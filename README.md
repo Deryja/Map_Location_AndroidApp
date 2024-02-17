@@ -1,4 +1,4 @@
 This is an android app made with Java and Android studio as IDE. It uses two php made scripts located inside my own terminal in order to set in values inside a sql table, and also to write them out (which is not available at the moment). 
-One of the scrips is called jsonin (to set in values) and the other jsonout (to write out the values). The code also takes in an API for googlemaps in order to view the complete world map. 
+One of the scripts is called jsonin (to set in values) and the other jsonout (to write out the values). The code also takes in an API for googlemaps in order to view the complete world map. 
 This app makes it possible for the users to click on a specific area on the map which then creates a marker, it is then possible to add some information to the marker in order to describe this particual place. All the markers are then saved and loaded upon starting the app again.
 These markers are saved and loaded to their original places with the help of their latitude and longitude values which are automatically created upon clicking on a specific area on the map.
