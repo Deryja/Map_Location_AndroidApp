@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">s334886_mappe3_deryja</string>
+
+
+
+    <string name="ok">Send</string>
+    <string name="tittel">Legg til beskrivelse: </string>
+
+    <string name="tittelinfo">Valgt markør: </string>
+    <string name="tittelOK">OK </string>
+
+    <string name="slett">Slett</string>
+
+
+</resources>

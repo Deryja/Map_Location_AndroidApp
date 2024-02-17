@@ -1,0 +1,21 @@
+<!-- res/layout/custom_dialog_layout.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!-- Your other views (if any) -->
+
+    <EditText
+        android:id="@+id/editTextAdresse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Adresse"/>
+
+    <EditText
+        android:id="@+id/editTextBeskrivelse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Beskrivelse"/>
+
+</LinearLayout>
